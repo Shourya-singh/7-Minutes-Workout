@@ -27,17 +27,6 @@ Clone this repository and import into Android Studio.
 
 `git clone git@github.com:wolox/<reponame>.git`
 
-## Generating signed APK
-    From Android Studio:
-    Build menu
-    Generate Signed APK...
-    Fill in the keystore information (you only need to do this once manually and then let Android Studio remember it)
-    
-## Maintainers
-This project is mantained by:
-
-- Shourya singh
-
 ## Contributing
 1.Fork it
 
@@ -48,6 +37,11 @@ This project is mantained by:
 4.Push your branch (git push origin my-new-feature)
 
 5-Create a new Pull Request    
+
+## Maintainers
+This project is mantained by:
+
+- Shourya singh
     
 ## Best practices
 Avoid reinventing the wheel by following these guidelines:
